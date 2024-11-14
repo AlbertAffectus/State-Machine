@@ -1,4 +1,13 @@
-# affectus-neuron
+# State Machine
+
+_Dynamic conversation engine_
+
+## Features:
+
+- 4 distinct states
+- topic extraction
+- style analysis
+- pinecone retrieval
 
 ## Preqreqs
 
